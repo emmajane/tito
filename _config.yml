@@ -1,0 +1,4 @@
+name: Training In The Open 
+markdown: redcarpet
+pygments: true
+baseurl: /tito

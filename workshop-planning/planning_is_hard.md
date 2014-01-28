@@ -1,3 +1,9 @@
+---
+layout: default
+title: Planning Is Hard
+---
+
+
 # Planning is Hard
 
 Right now I’m waiting to hear back from a couple of clients about their respective training contracts with me. I’ve  given both the homework of prioritizing what their staff need to learn based on the “typical” things they do at work. (Train for typical tasks where you want to affect behaviour; provide empowerment to learn on-the-job along with really awesome manuals for infrequent tasks.) And then, as is typical of this scenario, I get radio silence.

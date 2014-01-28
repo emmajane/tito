@@ -1,3 +1,8 @@
+---
+layout: default
+title: North-South Method 
+---
+
 # North-South Method
 
 In his book, Teaching Thinking, Edward DeBono outlined six different methods we can use to direct our attention towards something we might have otherwise missed. Why? Because all teaching is simply a matter of directing the attention of the learner to the piece of the puzzle they need.

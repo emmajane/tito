@@ -1,3 +1,8 @@
+---
+layout: default
+title: Wearing Your Blinders
+---
+
 # Wearing Your Blinders
 
 Last Friday I was doing some offline work at a coffee shop. I wanted to write up a quick list of online tools that I’ve either tried, or used, or heard good things about from other people. Very quickly I ran out of space on the page. I started cramming things in sideways. A couple of days later I added even more tools than are listed here.

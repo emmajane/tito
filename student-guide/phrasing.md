@@ -1,3 +1,8 @@
+---
+layout: default
+title: Phrasing 
+---
+
 # Phrasing
 
 Nearly a decade ago I was given a wonderful opportunity to learn on-the-(volunteer)-job about technical writing with The Linux Documentation Project. Tille had some excellent tips on how to make documentation more readable for people working in a second (or fifth) language. The tip I remember best is:

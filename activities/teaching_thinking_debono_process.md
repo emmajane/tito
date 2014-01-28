@@ -1,3 +1,8 @@
+---
+layout: default
+title: Process Model Method 
+---
+
 # Process Model Method
 
 In this mini-series I’ve been talking about different ways to think about problems. The methods come from Edward DeBono’s book, Teaching Thinking. This method is the final one in the series.

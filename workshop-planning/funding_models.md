@@ -1,3 +1,8 @@
+---
+layout: default
+title: A New Funding Model for Curriculum
+---
+
 # A New Funding Model for Curriculum
 
 I’m putting together the sales information for the new course that I’m writing with Lorna. We’ve opted for a new funding model for the workshop. It is very much based on the idea of a Kickstarter “prepaid” project. It is also very similar to the format I’ve used for one of my other workshops where I required a minimum number of registrants and agreed to give a free license to the content so that participants could reuse as much of the material as possible. From the sales page:

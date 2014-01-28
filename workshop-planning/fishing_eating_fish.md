@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fishing and Eating Fish
+---
+
 # Fishing and Eating Fish
 
 I’m reading The $100 Startup right now. I’m about 1/3 of the way into the book. I’m sure I’ll have more observations towards the end. But in the mean time, there’s one story that’s absolutely struck me. I’m totally guilty of doing it, which is part of what makes me love (and hate) the story so much.

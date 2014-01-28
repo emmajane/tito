@@ -1,3 +1,8 @@
+---
+layout: default
+title: Limits of Mind Maps
+---
+
 # Limits of Mind Maps
 
 I’ve spent the last few posts gushing about mind maps. I love them, and I’m not going to stop using them….however, now that I’ve got you hooked on them too I feel it’s only fair to tell you about some of the limitations of using mind maps.

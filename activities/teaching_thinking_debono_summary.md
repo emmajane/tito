@@ -1,3 +1,8 @@
+---
+layout: default
+title: Activity Ideas From Teaching Thinking 
+---
+
 # Activity Ideas from Teaching Thinking
 
 I have a pretty loose rule in my house about books: when one comes in, one must go out. The book leaving may be one that’s out of date (I have owned a lot of Web-tech books over the years), one that I’ve read and didn’t need to keep as reference; or one that I’ve never read and realize I have no intention of reading.

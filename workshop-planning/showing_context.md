@@ -1,3 +1,8 @@
+---
+layout: default
+title: Have Consequences by Showing Context
+---
+
 # Have Consequences by Showing Context
 
 A number of years ago I purchased a copy of The Cognitive Style of Powerpoint by Edward Tufte. I was flipping through it today while getting ready for the DrupalCon speaker training I’m giving and found a passage that I’d like to share.

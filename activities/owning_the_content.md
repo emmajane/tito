@@ -1,3 +1,8 @@
+---
+layout: default
+title: Owning the Content 
+---
+
 # Owning the Content
 
 Drupal training often begins with the code/framework and then gets increasingly more specific as it reveals how that is applied to an actual Web

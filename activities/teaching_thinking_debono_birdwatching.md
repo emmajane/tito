@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bird Watching Method 
+---
+
 # Bird Watching Method
 
 The next method DeBono describes is the birdwatching method. These method allows us to spot patterns and phenomenons. When using this method we can also frame our observations so that they are merely a different way of being right or wrong. For example: when a learner looks at a situation they may use an entirely different classification system to the one we’d imagined. This tells us something about how they are observing the situation. It doesn’t mean their classification is “wrong”, it simply means they are using different categories than the ones we’ve identified.

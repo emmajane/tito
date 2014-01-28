@@ -1,3 +1,8 @@
+---
+layout: default
+title: Apple Boxing Method 
+---
+
 # Apple Boxing Method
 
 In this mini-series I’ve been talking about different ways to think about problems. The methods come from Edward DeBono’s book, Teaching Thinking. So far we’ve covered the North-South method and the Birdwatching method.
