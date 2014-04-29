@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Training in the Open]]></title>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2014-04-27T12:22:14-04:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Moving to Sculpin]]></title>
+            <link href="/blog/2014/02/21/sculpin"/>
+            <updated>2014-02-21T00:00:00-05:00</updated>
+            <id>/blog/2014/02/21/sculpin</id>
+            <content type="html"><![CDATA[<p>This site started as a WordPress site in 2012. Then in 2013 I moved it to Jekyll.
+And in 2014, I'm now moving it to Sculpin. They've all been interesting to play
+around with, and none are a final destination.</p>
+]]></content>
+        </entry>
+    </feed>

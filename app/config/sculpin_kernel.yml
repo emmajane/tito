@@ -1,0 +1,15 @@
+sculpin_content_types:
+    activities:
+        type: path
+        path: _activities
+        permalink: activity/:filename/
+        singular_name: activity
+        layout: activity
+    pages:
+        permalink: :filename/
+        type: path
+        path: _pages
+        singular_name: page
+        layout: default
+    posts:
+        permalink: blog/:year/:month/:day/:filename/

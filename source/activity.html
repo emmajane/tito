@@ -1,0 +1,14 @@
+---
+layout: default
+title: Learner Activities 
+use:
+    - activities
+
+---
+<h2>Learner Activities</h2>
+
+<ul>
+{% for activity in data.activities|sort %}
+  <li><a href="{{ site.url }}{{ activity.url }}">{{ activity.title }}</a></li>
+{% endfor %}
+</ul>
