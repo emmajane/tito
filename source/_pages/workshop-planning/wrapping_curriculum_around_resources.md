@@ -3,8 +3,6 @@ layout: default
 title: Wrapping Curriculum Around Existing Resources
 ---
 
-# Wrapping Curriculum Around Existing Resources
-
 There are a lot of excellent Drupal resources available on the Internet. Videos, books, blog posts. Some are free, some are paid. Instead of reinventing the wheel, I think it makes sense to shape curriculum pieces around this content. A few of my favourite free initiatives that are ripe for curriculum wrappers include:
 
 - Skills compass - http://skillcompass.org/learning-resources

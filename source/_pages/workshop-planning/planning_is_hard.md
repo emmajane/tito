@@ -3,9 +3,6 @@ layout: default
 title: Planning Is Hard
 ---
 
-
-# Planning is Hard
-
 Right now I’m waiting to hear back from a couple of clients about their respective training contracts with me. I’ve  given both the homework of prioritizing what their staff need to learn based on the “typical” things they do at work. (Train for typical tasks where you want to affect behaviour; provide empowerment to learn on-the-job along with really awesome manuals for infrequent tasks.) And then, as is typical of this scenario, I get radio silence.
 
 Doing job-task analysis (JTA) and planning for training is hard. It forces you to think about how your staff are “failing” at their job. It forces you to think about the things that your staff don’t know….in a domain of knowledge that you might not even know. I know it’s hard because the books I’ve read on creating in-house training programs gloss over the JTA part of learning design. In my experience any topic that’s glossed over is either really easy, or so complex that it’s easier to simply back away and leave it unexplained.

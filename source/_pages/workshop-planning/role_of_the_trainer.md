@@ -3,8 +3,6 @@ layout: default
 title: The Role of the Trainer
 ---
 
-# The Role of the Trainer
-
 Sunday night I had an interesting conversation with a couple of other Drupal trainers about the role of the curriculum vs. the role of the trainer in very short training sessions (less than one day of contact). The hardest part of training is the discovery and development phase. By the time you get to the front of the room, all of your thinking should be done.
 
 When software is constantly changing, it is very difficult (and expensive) to put together curriculum that is predictably right. This means we tend to put subject matter experts (SME) at the front of the room. They can deal with the pesky questions about edge cases and generally they can spot a typo in the exercises and think on-the-spot about how to fix any problems with the curriculum being a little out of date. Developing good curriculum is expensive; but it is also expensive to have a SME delivering content, instead of working on the improvements to the software that are needed to reduce the reliance on training in the first place.

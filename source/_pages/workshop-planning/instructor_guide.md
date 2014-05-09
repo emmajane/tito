@@ -3,8 +3,6 @@ layout: default
 title: Integrity of the Experience
 ---
 
-# Integrity of the Experience
-
 For the last four years I’ve been poking in and out of the training world from various angles. I’ve updated curriculum, created my own curriculum, taught workshops by other people, and taken workshops. I love to see how other people structure their content, what resources are given to trainers, and where trainers are expected to invent their own experience is of particular interest to me.
 
 At last week’s workshop Bob made an interesting observation: his trainers tend to be creative thinkers who may review the curriculum guides a few times, but generally have enough practice creating experiences that they don’t need the fine grained detail provided in a typical facilitator guide. In the technical training world, my experience has been with a different kind of trainer. In my “world” the trainer craves as much material as possible. Some will even copy by hand the facilitator guide to internalize the information so they can present it naturally during the class.

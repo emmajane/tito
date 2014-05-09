@@ -3,8 +3,6 @@ layout: default
 title: Linking Training and Organizational Objectives
 ---
 
-# Linking Training and Organizational Objectives
-
 When I talk to new clients about training, the person I’m talking to is typically not a subject matter expert. They just know that their staff need training on a grocery list of topics. Then I start spouting off about objectives and outcomes and the person I’m talking to gets flustered.
 
 As the trainer and subject matter expert I have to be able to tell the client what a reasonable set of outcomes is for their staff. In other words, I need to be able to say to the client: it’s reasonable for a project manager to be able to X, but a developer should be able to Y. Working together, this should result in your company being able to deliver Z to your client.

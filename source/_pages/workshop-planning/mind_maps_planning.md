@@ -3,8 +3,6 @@ layout: default
 title: Using Mind Maps to Plan Curriculum Topics
 ---
 
-# Using Mind Maps to Plan Curriculum Topics
-
 This week I had a private training engagement. The course was a half day webinar on Drupal for project managers. We had some key topics that needed to be covered during the workshop, but not an overall structure to place the information into.
 
 I started with the free software package xmind and created a free-form mind map (http://www.xmind.net/m/gmu8/) with the topics I wanted to cover. The mind map format was a wonderful way to collect relevant topics. I didn’t like adding extra details to it (e.g. links, images, or learning objectives). I felt it got too cluttered with the extra details (and I did want the extra details).

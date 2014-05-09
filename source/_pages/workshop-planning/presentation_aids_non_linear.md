@@ -3,8 +3,6 @@ layout: default
 title: Non-Linear Presenation Aids
 ---
 
-# Non-Linear Presenation Aids
-
 When I was in the UK a few weeks ago, I spent a bit of time working with Lorna to try and get her toolkit working for slides (it’s LaTeX, we wanted to change the fonts). I started thinking about my own slide decks and how I always found them lacking an ability to engage people. Fancy transitions don’t suddenly help a learner to see the context of how information fits together. Indeed, when I lectured at college ages ago, I avoided using slide decks and focused more on short lecture or demo + hands-on practice.
 
 I’ve seen people use a few alternatives to linear slides (with positive effect). Instead of using a linear sequencing of “pages”, the document base used in the presentation adds context and movement between objects. Here are a few examples:
