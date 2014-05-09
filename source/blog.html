@@ -1,38 +1,33 @@
 ---
 layout: default
-title: Posts Archive
+title: Home
 generator: pagination
+pagination:
+    max_per_page: 3
 use:
     - posts
-
 ---
-{% set year = '0' %}
-<h2>Posts Archive</h2>
 {% for post in page.pagination.items %}
-{% set this_year %}{{ post.date | date("Y") }}{% endset %}
-{% if year != this_year %}
-  {% set month = '0' %}
-  {% set year = this_year %}
-{% endif %}
-{% set this_month %}{{ post.date | date("F") }}{% endset %}
-{% if month != this_month %}
-  {% set month = this_month %}
-  <h3>{{ month }} {{ year }}</h3>
-{% endif %}
-  <div>
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </div>
+    <article>
+        <header>
+            <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <div>
+            {{ post.blocks.content|raw }}
+        </div>
+        {% if post.meta.tags %}
+            <p class="tags">
+            Tags:
+            {% for tag in post.meta.tags %}
+            <a href="{{ site.url }}/blog/tags/{{ tag|url_encode(true) }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+            </p>
+        {% endif %}
+    </article>
 {% endfor %}
-
-<div>
 {% if page.pagination.previous_page or page.pagination.next_page %}
-    <nav class="article clearfix">
-    {% if page.pagination.previous_page %}
-    <a class="previous" href="{{ site.url }}{{ page.pagination.previous_page.url }}" title="Previous Page"><span class="title">Previous Page</span></a>
-    {% endif %}
-    {% if page.pagination.next_page %}
-    <a class="next" href="{{ site.url }}{{ page.pagination.next_page.url }}" title="Next Page"><span class="title">Next Page</span></a>
-    {% endif %}
+    <nav>
+        {% if page.pagination.previous_page %}<a href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer Posts</a>{% endif %}<br />
+        {% if page.pagination.next_page %}<a href="{{ site.url }}{{ page.pagination.next_page.url }}">Older Posts</a>{% endif %}<br />
     </nav>
 {% endif %}
-</div>
