@@ -13,5 +13,3 @@ There were three important aspects to the collaborative note taking that I want 
 3. Note taking was collaborative (many could edit at once).
 
 Although the camp was using Google Docs, it would have been just as effective with another system. If you are inside a firewall you could still use a local installation of EtherPad (http://etherpad.org/) on an internal server.
-
-Are you using this in your classroom? How else do you encourage students to build their own reference material for the classroom experience?
