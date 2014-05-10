@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Integrity of the Experience
+tags:
+    - workshop-planning
 ---
 
 For the last four years I’ve been poking in and out of the training world from various angles. I’ve updated curriculum, created my own curriculum, taught workshops by other people, and taken workshops. I love to see how other people structure their content, what resources are given to trainers, and where trainers are expected to invent their own experience is of particular interest to me.

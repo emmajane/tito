@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Where Is The 'any' Region? 
+title: Where Is The 'any' Region?
+tags:
+    - student-guide
 ---
-
-# Where is the "any" Region?
 
 You’ve probably heard (and I’ll probably say it more than once): the person doing the talking is the person doing the learning. One of my favourite teaching moments in 2011 was an email I got from a student. He wanted to clarify the written instructions he’d received. The instructions said (something to the effect of): place the block into any region. The email asked, “Where’s the ‘any’ region?” I knew it wasn’t a joke. The instructions were a mismatch of very precise procedural information and do-what-you-think-is-best prose.
 

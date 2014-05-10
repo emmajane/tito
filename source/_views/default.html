@@ -43,6 +43,7 @@
         <div class="mainContent container">
             <div class="row-fluid">
                 <div class="span8">
+                <h1>{{ page.title }}</h1>
                     {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
                 </div>
                 <div class="span4 sidebar">
@@ -59,9 +60,7 @@
         </div>
         <footer class="container">
             &copy; {{ "now"|date("Y") }} {{ site.title }}
-            All non-code content, except where noted otherwise, is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 license</a>.
-            Attribution should include “Training in the Open” and a link to trainingintheopen.com.
-            In the case of printed materials, a link does not need to be provided.
+             - <a href="/about">CC-licensed</a>
         </footer>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>

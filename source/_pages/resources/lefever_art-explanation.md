@@ -2,9 +2,11 @@
 layout: default
 title: The Art of Explanation
 author: Lee LeFever
+tags:
+    - resources
 ---
 
-# Key Take-Aways from The Art of Explanation
+# Key Take-Aways
 
 A list of things which were noteworthy to me, because they weren't already
 things which I perceived to be obvious. i.e. this is not  not a summary of 

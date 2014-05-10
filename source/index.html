@@ -1,33 +1,31 @@
 ---
 layout: default
-title: Home
-generator: pagination
-pagination:
-    max_per_page: 3
 use:
-    - posts
+    - pages
 ---
-{% for post in page.pagination.items %}
-    <article>
-        <header>
-            <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-        </header>
-        <div>
-            {{ post.blocks.content|raw }}
-        </div>
-        {% if post.meta.tags %}
-            <p class="tags">
-            Tags:
-            {% for tag in post.meta.tags %}
-            <a href="{{ site.url }}/blog/tags/{{ tag|url_encode(true) }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
-            {% endfor %}
-            </p>
-        {% endif %}
-    </article>
+
+<h1>Training in the Open</h1>
+
+<p>This web site serves as a collection of ideas which need to be captured, and perhaps which should be shared. You can read more <a href="/about">about the inception</a> of the site.</p>
+
+<p>Reader bewarned. This site is a living set of notes and will be updated to reflect current attempts at best practices instead of
+maintaining an archive of thought processes. In other words:
+the content of a URL may not be permanent!</p>
+
+<p>In addition to the thoughts below, there is also a growing archive of <a href="/activity">useful classroom activities</a> which may prove useful if you are teaching in a traditional classrom.</p>
+
+<ul>
+{% for page in data.pages %}
+  <li>
+    <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
+    {% if page.tags %}
+    <span class='tags'> - 
+      {% for tag in page.tags %}
+        {{ tag }}
+      {% if not loop.last %}, {% endif %}
+      {% endfor %}
+      </span>
+    {% endif %}
+  </li>
 {% endfor %}
-{% if page.pagination.previous_page or page.pagination.next_page %}
-    <nav>
-        {% if page.pagination.previous_page %}<a href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer Posts</a>{% endif %}<br />
-        {% if page.pagination.next_page %}<a href="{{ site.url }}{{ page.pagination.next_page.url }}">Older Posts</a>{% endif %}<br />
-    </nav>
-{% endif %}
+</ul>

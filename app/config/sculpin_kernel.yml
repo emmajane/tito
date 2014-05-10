@@ -11,5 +11,7 @@ sculpin_content_types:
         path: _pages
         singular_name: page
         layout: default
+        taxonomies:
+            - tags
     posts:
         permalink: blog/:year/:month/:day/:filename/

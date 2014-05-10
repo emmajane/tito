@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A New Funding Model for Curriculum
+tags:
+    - workshop-planning
 ---
 
 (This was originally a blog post for a course which ran in
