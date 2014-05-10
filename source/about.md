@@ -1,10 +1,8 @@
 ---
 layout: default
-title: About
+title: About Training in the Open
 
 ---
-
-# About Training in the Open
 
 Hi! My name is Emma Jane. I am an author and trainer who delivers exceptional technical training and curriculum products. I have written, or tech edited, a half dozen books about Drupal, developed curriculum for Ubuntu, and [delivered over 100 presentations](http://emmajane.net/events) on topics ranging from data migration and version control to SEO and content marketing.  
 
