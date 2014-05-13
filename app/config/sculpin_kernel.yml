@@ -1,15 +1,15 @@
 sculpin_content_types:
     activities:
+        singular_name: activity
         type: path
         path: _activities
-        permalink: activity/:filename/
-        singular_name: activity
+        permalink: activity/:basename
         layout: activity
     pages:
+        singular_name: page
         permalink: :filename/
         type: path
         path: _pages
-        singular_name: page
         layout: default
         taxonomies:
             - tags
