@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Expert Sketch-Off 
 ---
-
-# Expert Sketch-Off
 
 Too often beginners think they need some kind of crazy expertise instead of common sense. This activity demonstrates how little difference there can be between the actions of an expert and someone using plain ol’ common sense.
 

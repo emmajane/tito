@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Jig Saw 
 ---
-
-# Jig Saw
 
 This week I’ve been in Leeds visiting my good friend Lorna Jane. We’re collaborating on a new workshop this fall and it was great to get some face time to work on the project. While I was here, I also spent some time reviewing some of Lorna’s curriculum. The goal was to get some alternate ways of presenting dry, but necessary content that is typically delivered in a workshop as chalk-and-talk or demo-and-do.
 

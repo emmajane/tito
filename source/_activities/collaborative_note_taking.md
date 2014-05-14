@@ -2,8 +2,6 @@
 title: Collaborative Note Taking
 ---
 
-# Collaborative Note Taking
-
 At Twin Cities Drupal Camp each session had a collaborative note taking Web page using Google Docs. Brilliant idea! This also allows the speaker to review the information afterwards and supplement the notes with additional resources. (The pages are only available to conference attendees.) In addition to the information the speaker presented, the audience was able to add their own experience to the page. My talks were supplemented with extra resources for questions that were asked as well as the occasional dissenting opinion (I loved that too!).
 
 There were three important aspects to the collaborative note taking that I want to emphasize.

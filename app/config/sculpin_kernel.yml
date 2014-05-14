@@ -3,15 +3,22 @@ sculpin_content_types:
         singular_name: activity
         type: path
         path: _activities
-        permalink: activity/:basename
+        permalink: activity/:basename/
         layout: activity
     pages:
         singular_name: page
-        permalink: :filename/
         type: path
         path: _pages
         layout: default
         taxonomies:
             - tags
+            - section
+        permalink: curriculum/:basename.html
+    resources:
+        singular_name: resource
+        type: path
+        path: _resources
+        permalink: resource/:basename/
+        layout: default 
     posts:
         permalink: blog/:year/:month/:day/:filename/

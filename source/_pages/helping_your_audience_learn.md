@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Helping Your Audience Learn
-tags:
-    - workshop-planning
+section:
+    - planning 
 ---
 
 Jacinta (Perl Training Australia) has an excellent presentation on how to simplify the training experience for your learners. Some of my favourite tips include:

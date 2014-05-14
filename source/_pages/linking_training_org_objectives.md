@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Linking Training and Organizational Objectives
-tags:
-    - workshop-planning
+section:
+    - planning
 ---
 
 When I talk to new clients about training, the person I’m talking to is typically not a subject matter expert. They just know that their staff need training on a grocery list of topics. Then I start spouting off about objectives and outcomes and the person I’m talking to gets flustered.

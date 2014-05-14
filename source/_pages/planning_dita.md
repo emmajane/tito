@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Using DITA for Planning
-tags:
-    - workshop-planning
+section:
+    - planning
 ---
 
 The [Darwin Information Typing

@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Does That Make Sense? Prove It. 
 ---
-
-# Does That Make Sense? Prove It.
 
 Have you ever stood at the front of the room waiting for confirmation that a concept made sense and you get blank stares (or bobbing heads back)? You have to trust that the information somehow got in there and will be usable by the student later. Don’t ever trust. Always make your students prove the information went in, by making them bring it back out again. Instead of asking, “does that make sense?” ask your students to, “sketch their answer”. I prefer giving out index cards (3″x5″ file cards). This way they don’t have to feel nervous about putting a wrong answer in their workbook. If they like the card, they can keep it. If they don’t, they can toss it in the recycle bin on their way out.
 

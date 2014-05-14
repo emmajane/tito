@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Ready to Learn 
 ---
-
-# Ready to Learn
 
 In my public workshops I find that some students come ready to learn and no matter what I do, they’re going to use the time to figure stuff out. Other people are paying for a completely different experience: they are looking to pay their way out of confusion and fear. In the second case my job is to create the conditions that will empower a person to take chances and try things out.
 

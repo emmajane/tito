@@ -1,7 +1,7 @@
 ---
 layout: default
 use:
-    - pages
+    - pages_section
 ---
 
 <h1>Training in the Open</h1>
@@ -16,18 +16,11 @@ in time, the content is still available.</p>
 
 <p>In addition to the thoughts below, there is also a growing archive of <a href="/activity">useful classroom activities</a> which may prove useful if you are teaching in a traditional classrom.</p>
 
+{% for sections,pages in data.pages_section %}
+<h2>{{ sections|title }}</h2>
 <ul>
-{% for page in data.pages %}
-  <li>
-    <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
-    {% if page.tags %}
-    <span class='tags'> - 
-      {% for tag in page.tags %}
-        {{ tag }}
-      {% if not loop.last %}, {% endif %}
-      {% endfor %}
-      </span>
-    {% endif %}
-  </li>
+{% for page in pages %}
+  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
 {% endfor %}
 </ul>
+{% endfor %}

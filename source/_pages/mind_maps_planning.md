@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Using Mind Maps to Plan Curriculum Topics
-tags:
-    - workshop-planning
+section:
+    - planning
 ---
 
 This week I had a private training engagement. The course was a half day webinar on Drupal for project managers. We had some key topics that needed to be covered during the workshop, but not an overall structure to place the information into.

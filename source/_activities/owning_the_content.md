@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Owning the Content 
 ---
-
-# Owning the Content
 
 Drupal training often begins with the code/framework and then gets increasingly more specific as it reveals how that is applied to an actual Web
 site: it goes from abstract to concrete. Adult learners, however, need to feel like the stuff they’re learning actually relates to their job.

@@ -1,8 +1,7 @@
 ---
-layout: default
 title: The Role of the Trainer
-tags:
-    - workshop-planning
+section:
+    - planning
 ---
 
 Sunday night I had an interesting conversation with a couple of other Drupal trainers about the role of the curriculum vs. the role of the trainer in very short training sessions (less than one day of contact). The hardest part of training is the discovery and development phase. By the time you get to the front of the room, all of your thinking should be done.
