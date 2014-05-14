@@ -6,6 +6,4 @@ and delivering exceptional technical training.
 
 It was created, and is maintained, by Emma Jane Westby. You are welcome and encouraged to contribute.
 
-The site is published at www.trainingintheopen.com.
-
-Currently powered by [Sculpin](http://sculpin.io). =)
+The site is published at www.trainingintheopen.com and is currently powered by [Sculpin](http://sculpin.io). =)
