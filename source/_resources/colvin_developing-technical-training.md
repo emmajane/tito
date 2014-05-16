@@ -1,5 +1,7 @@
-Title: Developing Technical Training
-Author: Ruth Colvin Clark
+---
+title: Developing Technical Training
+author: Ruth Colvin Clark
+---
 
 - content
   - facts

@@ -1,9 +1,6 @@
 ---
-layout: default
 title: The Art of Explanation
 author: Lee LeFever
-tags:
-    - resources
 ---
 
 # Key Take-Aways
