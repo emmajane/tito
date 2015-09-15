@@ -1,5 +1,5 @@
 ---
-title: Where Is The 'any' Region?
+title: Writing Procedural Instructions
 section:
     - technical writing
 permalink: curriculum/procedural-writing.html
