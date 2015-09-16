@@ -40,7 +40,9 @@ Each 1-hour presentation takes in the range of 40-100 hours to prepare for (less
 - Start practicing your talk outloud.
 - Fix the slides to match your story, adding imagery where relevant.
 - Decrease the amount of text on each slide to just the key point you want to make for that idea.
-- Test your colours against common colour blindness problems; and for contrast. Various tools are available for different platforms. A quick Web search should help you to find something relevant, if not ask your friends. Statistic suggest you'll have at least one colour-blind friend.
+- Test your colours against common colour blindness problems; and for contrast. Various tools are available for different platforms. A quick Web search should help you to find something relevant, if not ask your friends. Statistic suggest you'll have at least one colour-blind friend who can help you with this.
+- Remove any unnecessary animated transitions between slides and within slides. For those slides which need to have the animation, add a warning for folks with [vestibular disorders](http://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity).
+- Ensure all text is no smaller than 1/10 the height of the slide (font size can especially be a problem if you have a small projector in a long, skinny room).
 - Make sure you've included URLs (minified if necessary) to the blog posts you wrote earlier about your topic.
 
 ## 1 Week
