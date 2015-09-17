@@ -6,7 +6,7 @@ title: About Training in the Open
 
 Hi! My name is Emma Jane. I am an author and trainer who delivers exceptional technical training and curriculum products. I have written, or tech edited, a half dozen books about Drupal, developed curriculum for Ubuntu, and [delivered over 100 presentations](http://emmajane.net/events) on topics ranging from data migration and version control to SEO and content marketing.  
 
-My latest book, Drupal User’s Guide, was released September 2011. My digital workbooks, available through the Design to Theme Web site, are revered for their get-to-the-point, no-nonsense approach to Drupal skills development.
+My latest book, [Git for Teams](http://gitforteams.com/), was released September 2015 by [O'Reilly](http://www.jdoqocy.com/click-4470479-11290546?sid=&url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920034520.do%3Fcmp%3Daf-prog-books-videos-product_cj_auwidget670_0636920034520_%25zp).
 
 # Copyright and License
 
