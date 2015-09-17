@@ -45,6 +45,8 @@ Each 1-hour presentation takes in the range of 40-100 hours to prepare for (less
 - Ensure all text is no smaller than 1/10 the height of the slide (font size can especially be a problem if you have a small projector in a long, skinny room).
 - Make sure you've included URLs (minified if necessary) to the blog posts you wrote earlier about your topic.
 
+For additional tips on preparing a slide deck for a technical conference, check out my [DrupalCon speaker training resources](/delivery/speaker-training-drupalcon.html).
+
 ## 1 Week
 
 - Screen cast your practice sessions until you can run through the presentation from start to finish without stopping to adjust any part of your presentation. This will be exceptionally difficult.
@@ -100,8 +102,12 @@ Each 1-hour presentation takes in the range of 40-100 hours to prepare for (less
 
 Now you're set. I generally pace or use my friendly "I'm not available to chat yet" face so that the incoming audience knows to leave me alone. You might be more comfortable chatting with people than I am. I love to chat afterwards; but need the pre-talk time to centre myself.
 
-# Thanks!
+For additional tips on what to do the day of your presentation, check out my [DrupalCon speaker training resources](/delivery/speaker-training-drupalcon.html).
 
-This breakdown includes additional tips from: [Kate Kligman](https://twitter.com/KateKligman/status/643812836343353344).
+# Got More Tips?
 
 Do you have tips of your own? Send me a pull request (or just open an issue) on [GitHub](https://github.com/emmajane/tito), or just Tweet your tip to @emmajanehw.
+
+Thanks to:
+
+- [Kate Kligman](https://twitter.com/KateKligman/status/643812836343353344) for her tip on double checking the presentation your room is in.
