@@ -25,7 +25,7 @@ Each 1-hour presentation takes in the range of 40-100 hours to prepare for (less
 
 - Choose [the format for the presentation](/presentation-formats.html) which best matches my desired learning outcomes.
 - Write a table of contents / agenda for the topic with the key ideas I want to convey.
-- Write the session description based on work to date. Ready to propose the topic to a meetup or event.
+- Write the [session description](/planning/pitching-conferences.html) based on work to date. Ready to propose the topic to a meetup or event.
 
 ## 4-6 Weeks 
 
