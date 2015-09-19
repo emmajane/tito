@@ -1,7 +1,7 @@
 ---
 title: Speaker Training (DrupalCon recordings)
 section:
-    - delivery
+    - conferences 
 permalink: delivery/speaker-training-drupalcon.html
 ---
 

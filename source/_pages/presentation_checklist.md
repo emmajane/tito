@@ -1,7 +1,7 @@
 ---
 title: The Speakers' Checklist
 section:
-    - delivery
+    - conferences 
 permalink: speakers-checklist.html
 ---
 

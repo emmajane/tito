@@ -1,0 +1,18 @@
+---
+layout: activity
+title: Teaching Workshops
+use:
+    - pages_section
+---
+
+<p>Resources to help you plan workshops. <a href="/activity">Classroom activities</a> are available in their own section.</p>
+
+{% for sections,pages in data.pages_section %}
+{% if sections == "planning" %}
+<ul>
+{% for page in pages %}
+  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+{% endfor%} 
+</ul>
+{% endif %}
+{% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: Recording Workshops
 section:
-    - delivery
+    - planning 
 ---
 
 When I first started teaching Web tech at community colleges (more than a decade ago) we recorded our practice teaching sessions. I never seemed to find the time to go back and review the video though.

@@ -1,10 +1,10 @@
 ---
-title: Helping Your Audience Learn
+title: Tips for Teaching Workshops (Jacinta Richardson)
 section:
     - planning 
 ---
 
-Jacinta (Perl Training Australia) has an excellent presentation on how to simplify the training experience for your learners. Some of my favourite tips include:
+Jacinta Richardson (Perl Training Australia) has an excellent presentation on how to simplify the training experience for your learners. This page summarises my favourite tips from her session "Helping Your Audience Learn".
 
 - Reduce the extraneous cognitive load. Remove the stuff that gets in the way of learning the key lessons.
 - Be realistic about the amount of time you actually have in a class. 9-5PM is actually 6 hours when you factor in breaks and lunch and mental overload.

@@ -1,7 +1,7 @@
 ---
 title: A New Funding Model for Curriculum
 section:
-    - funding 
+    - planning
 ---
 
 (This was originally a blog post for a course which ran in

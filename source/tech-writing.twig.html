@@ -1,0 +1,18 @@
+---
+layout: activity
+title: Tech Writing
+use:
+    - pages_section
+---
+
+<p>Eventually I'd like to expand this section to include resources on how to pitch and write your very first book. For now, just a couple of resources on writing good instructions.</p>
+
+{% for sections,pages in data.pages_section %}
+{% if sections == "technical writing" %}
+<ul>
+{% for page in pages %}
+  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+{% endfor%} 
+</ul>
+{% endif %}
+{% endfor %}

@@ -1,0 +1,20 @@
+---
+layout: activity
+title: Speaker Training
+use:
+    - pages_section
+---
+
+<p>With 20+ years of public speaking and training experience, it was inevitable that I would end up teaching others the tricks of the trade. The first "speaker training" I delivered was to Linux and Perl user groups over a decade ago. Since 2009, I've been working with the Drupal community to offer free speaker training and/or one-on-one support to its speakers. I have delivered the DrupalCon training several times in multiple formats: 1/2 day workshop the week of the conference, 3-part webinar, and a single hour conference session.</p>
+
+<p>Included here is a growing list of resources for practitioners and subject matter experts who are interested in speaking at (technical) conferences.</p>
+
+{% for sections,pages in data.pages_section %}
+{% if sections == "conferences" %}
+<ul>
+{% for page in pages %}
+  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+{% endfor%} 
+</ul>
+{% endif %}
+{% endfor %}

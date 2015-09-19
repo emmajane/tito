@@ -1,7 +1,7 @@
 ---
 title: Presentation Formats
 section:
-    - delivery
+    - conferences
 permalink: presentation-formats.html
 ---
 

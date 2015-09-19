@@ -1,7 +1,7 @@
 ---
 title: Pitching Your Proposal
 section:
-    - planning
+    - conferences
 permalink: planning/pitching-conferences.html
 ---
 
