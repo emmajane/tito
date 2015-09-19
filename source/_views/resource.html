@@ -1,9 +1,11 @@
 {% extends "default" %}
 {% block content_wrapper %}
-    <article>
-    {% if page.author %}
-      <div class="tags">by {{ page.author }}</div>
-        {% endif %}
+<article>
+<div class="well">
+    {% if page.author %}<div>by {{ page.author }}</div>{% endif %}
+    {% if page.booksite %}<div><a href="{{ page.booksite }}">Official book site</a></div>{% endif %}
+    {% if page.amazonurl %}<div><a href="{{ page.amazonurl }}">Amazon link</a></div>{% endif %}
+</div>
         <div>
             {{ page.blocks.content|raw }}
         </div>

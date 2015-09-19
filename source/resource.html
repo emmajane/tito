@@ -3,11 +3,15 @@ layout: default
 title: Resources 
 use:
     - resources 
-
 ---
+
+Notes about resources I have learned from--typically books. The notes are unlikely to be directly useful to you, but they should help you to decide if you want to invest in buying the title.
 
 <ul>
 {% for resource in data.resources %}
-  <li><a href="{{ site.url }}{{ resource.url }}">{{ resource.title }}</a></li>
+<li>
+  <a href="{{ site.url }}{{ resource.url }}">{{ resource.title }}</a> 
+  {% if resource.author %}by {{ resource.author }}{% endif %}
+</li>
 {% endfor %}
 </ul>

@@ -15,7 +15,7 @@ sculpin_content_types:
             - tags
             - section
     resources:
-        layout: default 
+        layout: resource
         type: path
         singular_name: resource
         path: _resources

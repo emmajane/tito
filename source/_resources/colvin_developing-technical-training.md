@@ -1,7 +1,12 @@
 ---
 title: Developing Technical Training
 author: Ruth Colvin Clark
+amazonurl: http://www.amazon.com/Developing-Technical-Training-Computer-based-Instructional/dp/0787988464
 ---
+
+I have read Developing Technical Training from cover to cover several times. And I use it as a reference book -- dipping in and out of specific parts when I need to brush up on certain skills. Overall this book does a much better job at helping you structure learning materials for activities where the task will always be performed in exactly the same way. This makes the text less than ideal for teaching web topics, or any software that's liable to be very context-specific.
+
+Types of Lessons:
 
 - content
   - facts

@@ -1,6 +1,8 @@
 ---
 title: The Art of Explanation
 author: Lee LeFever
+amazonurl: http://www.amazon.com/gp/product/1118374584/
+booksite: http://artofexplanation.com/
 ---
 
 # Key Take-Aways
