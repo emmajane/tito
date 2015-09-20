@@ -131,7 +131,7 @@ There is a separate tip sheet for [audience management](/audience-management.htm
 
 # Got More Tips?
 
-Do you have tips of your own? Send me a pull request (or just open an issue) on [GitHub](https://github.com/emmajane/tito), or just Tweet your tip to @emmajanehw.
+Do you have tips of your own? Tweet your tip to @emmajanehw, open an issue on [GitHub](https://github.com/emmajane/tito), or send me a pull request.
 
 Thanks to:
 
