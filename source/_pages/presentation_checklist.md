@@ -69,18 +69,32 @@ For additional tips on preparing a slide deck for a technical conference, check 
 ## Day Before
 
 - Go to the room where you'll be presenting. Don't just find it on a map, go inside the room. Look at the layout of the room. You're going to own it tomorrow, so become friends with it today.
+- Introduce yourself to the AV team if they are around. If anything goes wrong, these folks will help you. They are your friends and your superheros.
 - Make sure the room # on the printed schedule matches the room on the web version of the program matches the printed banner version that's outside of the room. (Your conference might not have all of these options.) Make sure they all say the same room, and make sure you can get into your room.
 - If you're able to, do a tech check to make sure your laptop works with the projection system. Some conferences will try to tell you that they're using a single room for all tech checks even though it's a multi-room event. No, you need to do your tech check in your room.
 - Drink lots of water and make sure you are hydrated. You probably won't sleep tonight. Don't stress about that. Do the best you can to relax.
-- Upload your slides if it's expected of you. Even if you've written really awesome blog posts, people will complain if they don't have the slides.
+- Upload your slides. (Even if you've written really awesome blog posts, people will complain if they don't have the slides.) Uploading your slides will also give you a backup if there are any problems with your laptop, or the projector.
 - If you're an introvert, get as much quiet time as you can during the day to ensure you're fully charged for tomorrow.
-- Pack your bag for tomorrow and include your remote control, VGA adapter, and power cable (with relevant converter if you're not in your home country).
+
+## Night Before
+
+Pack your bag for tomorrow and include:
+
+- Fully charged laptop.
+- Power cable for your laptop + power adapter if you are not in your home country.
+- Presentation on USB as PDF in case your laptop dies.
+- Printed speaker notes.
+- Water bottle (filled).
+- VGA display converter thingy (for the projector).
+- Remote control (if you have one).
+- Clean shirt and trousers (for those of us who are prone to spilling coffee down our fronts)
 
 ## Game Day
 
 - Try to eat breakfast. Being stressed out takes calories.
 - Hydrate with water, or fruit juice. A dry throat goes hoarse quickly.
 - Check in with the conference organisers so they know you are on-site and ready to present.
+- Smile lots. It may trick your body into thinking this is fun.
 
 ## One Hour Before
 
@@ -97,12 +111,23 @@ For additional tips on preparing a slide deck for a technical conference, check 
 
 - As soon as you can, get onto the stage and graciously tell the folks on stage that they've done a great job. Then help them to shepherd people alway from the stage by saying you need to get setup. The previous presenter can answer questions in the hallway. Help them to see if they've forgotten anything on stage, and then help them to move on. You being rude to the audience is a LOT easier than the speaker doing it; you're helping them. (And hopefully someone will help shepherd you at the end of your talk.)
 - Get your laptop plugged in and working with the projector. If anything is going to go wrong, this is generally it.
-- Next, get help putting your mic on if it's a clip mic. (Want to impress the AV staff? Test the mic by blowing on it. That's right: tapping a mic can damage the internals and potentially blow out the speakers if they're turned up too high. So don't tap the mic!)
+- Next, get help putting your mic on if it's a clip mic. (Want to impress the AV staff? Test the mic by blowing on it. That's right: you don't tap the mic to test it because tapping a mic can damage the internals and potentially blow out the speakers if they're turned up too high. So don't tap the mic!)
 - Once your laptop is connected, open your slideshow software, bring up the first slide, and start the presentation. Make sure you can see your speaker notes (if not: your display is probably mirrored, you'll need to disable that).
+- More smiling! (It's okay, I don't smile during setup either.)
 
 Now you're set. I generally pace or use my friendly "I'm not available to chat yet" face so that the incoming audience knows to leave me alone. You might be more comfortable chatting with people than I am. I love to chat afterwards; but need the pre-talk time to centre myself.
 
 For additional tips on what to do the day of your presentation, check out my [DrupalCon speaker training resources](/delivery/speaker-training-drupalcon.html).
+
+## Your Presentation
+
+- Smile at the audience while thinking about something happy or delicious. Breathe in and give an audible “ahh-sigh” out.
+- Begin.
+- Tell your story with passion.
+- At the end, say “thank you” and give the audience time to clap.
+- Smile again. Good job, you!
+
+There is a separate tip sheet for [audience management](/audience-management.html).
 
 # Got More Tips?
 
