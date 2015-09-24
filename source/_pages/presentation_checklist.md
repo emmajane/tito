@@ -98,11 +98,21 @@ For additional tips on preparing a slide deck for a technical conference, check 
 - As soon as you can, get onto the stage and graciously tell the folks on stage that they've done a great job. Then help them to shepherd people alway from the stage by saying you need to get setup. The previous presenter can answer questions in the hallway. Help them to see if they've forgotten anything on stage, and then help them to move on. You being rude to the audience is a LOT easier than the speaker doing it; you're helping them. (And hopefully someone will help shepherd you at the end of your talk.)
 - Get your laptop plugged in and working with the projector. If anything is going to go wrong, this is generally it.
 - Next, get help putting your mic on if it's a clip mic. (Want to impress the AV staff? Test the mic by blowing on it. That's right: tapping a mic can damage the internals and potentially blow out the speakers if they're turned up too high. So don't tap the mic!)
-- Once your laptop is connected, open your slideshow software, bring up the first slide, and start the presentation. Make sure you can see your speaker notes (if not: your display is probably mirrored, you'll need to disable that).
+- Once your laptop is connected, open your slideshow software, bring up the first slide, and start the presentation. Make sure you can see your speaker notes (if not: your display is probably mirrored, you'll need to disable that. If you’re using Keynote or OS X see the shortcuts below).
 
 Now you're set. I generally pace or use my friendly "I'm not available to chat yet" face so that the incoming audience knows to leave me alone. You might be more comfortable chatting with people than I am. I love to chat afterwards; but need the pre-talk time to centre myself.
 
 For additional tips on what to do the day of your presentation, check out my [DrupalCon speaker training resources](/delivery/speaker-training-drupalcon.html).
+
+## OS X / Keynote Shortcuts
+
+If your display isn’t arranged correctly then Keynote and OS X have a couple of keyboard shortcuts that can make life easier:
+
+- _Cmd + Brightness (F1)_ toggles display mirroring on and off.
+- _Alt + Brightness (F1)_ brings up Display Preferences and holding _Alt_ shows the _Detect Displays_ button.
+
+- If the presenter notes and main slide displays are the wrong way around _X_ will swap them.
+- If you want to hide your slides for any reason _W_ will blank the main display with white, and _B_ will do the same in black.
 
 # Got More Tips?
 
