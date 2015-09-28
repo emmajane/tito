@@ -16,6 +16,11 @@ I use the following rough schedule when preparing for a conference presentation.
 
 Each 1-hour presentation takes in the range of 40-100 hours to prepare for (less prep time is required if it's a topic I've previously presented). Workshops can take in the range of one week to prepare one day's worth of content. The efficiencies for workshops are because I've already dedicated some time to a workshop's topic before proposing it.
 
+Sample "time from presentation" is given for each phase. For example, "3 months" means "3 months before your presentation".
+
+# Brainstorming Phase
+
+Gathering your thoughts.
 
 ## 3 Months
 
@@ -31,9 +36,18 @@ Each 1-hour presentation takes in the range of 40-100 hours to prepare for (less
 
 - Write a blog post; or series of blog posts about your talk. This acts as a transcript of what you might say and helps you to choose the important bits to talk about.
 
+# Draft Phase
+
+Once you collected your thoughts about your topic, you're ready to start drafting your presentation. I generally draft in outlines.
+
 ## 3 Weeks
 
 - Write the first draft of your slides, incorporating comments from the blog posts you've written.
+
+
+# Polish Phase
+
+With your outline written, it's time to start putting your slides and imagery together.
 
 ## 2 Weeks
 
