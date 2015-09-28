@@ -15,8 +15,12 @@ Variations of this three part webinar were delivered circa 2011-13 for DrupalCon
 - [Part 2: Preparing your slides](https://archive.org/details/SpeakerTraining2Pdx) - video, [slides](https://speakerdeck.com/emmajane/the-slide-deck-a-drupalcon-speaker-check-in)
 - [Part 3: Delivering your presentation](https://archive.org/details/drupalcon-pdx-speaker-training-3) - video, [slides](https://speakerdeck.com/emmajane/presentation-day-a-drupalcon-speaker-check-in)
 
-## Session
+## Sessions
 
+- Community Training: Speaker Training, DrupalCon Barcelona 2015 -
+  [recording](https://events.drupal.org/barcelona2015/sessions/community-training-public-speaking),
+  [slides](http://emmajane.github.io/speaker-training/#/),
+  or [repository](https://github.com/emmajane/speaker-training)
 - [Presenting You!](http://www.slideshare.net/emmajane/presenting-you) - slides (delivered at: DrupalCon Washington DC circa 2009)
 
 ## Workshop
