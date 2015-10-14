@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Presentation Software
 section:
-    - presentation
+    - conferences
 ---
 
 There's no one "right answer" on which software you should use to deliver your presentation. In fact, maybe you don't even need to use presentation software at all! Below are a few of my favourite "things you never knew about your software" tips and tricks.
