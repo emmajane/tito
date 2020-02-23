@@ -8,7 +8,7 @@ booksite: http://artofexplanation.com/
 # Key Take-Aways
 
 A list of things which were noteworthy to me, because they weren't already
-things which I perceived to be obvious. i.e. this is not  not a summary of 
+things which I perceived to be obvious. i.e. this is not a summary of 
 the book.
 
 - Great explainers picture themselves in the listener's shoes.

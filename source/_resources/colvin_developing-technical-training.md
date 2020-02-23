@@ -136,7 +136,7 @@ For each task, determine if it is procedural, or principle-based, and procede wi
 Principles to consider when developing your course outline.
 
 - Zoom: the novice learner needs to build a general mental framework on which to attach or hang the lesson ideas so structure your outline in a way that helps to keep the learner oriented on "the big picture". Once you've given the big picture, zoom into the specifics. Return to the big picture periodically to orient the learner and emphasize interrelationships. Start with a process lesson, then dive into the specific tasks / procedures. Another way to is to begin with an overview of all the major tasks to be trained, to show their relationship, and then dive into the specifics of each task one at a time.
-- Spiral Principle / Common-Skills-First: Present reoccurring "foundation" content early in the course. Then revisit the foundation skills but at at increasingly difficult degree of difficulty. With this approach, you are not following a linear sequence with the material.
+- Spiral Principle / Common-Skills-First: Present reoccurring "foundation" content early in the course. Then revisit the foundation skills but at increasingly difficult degree of difficulty. With this approach, you are not following a linear sequence with the material.
 - Problem-based learning: use just-in-time knowledge as you progress through each of the stages of a problem with your learners.
 
 Sample course structure for a linear outline (instructor-led):
