@@ -118,5 +118,5 @@ A day-long, or multi-day tutorial. Generally includes a combination of "sage fro
 
 - Presenter advantages: Able to test the audience on their knowledge and have a greater chance to catch people who've not mastered an activity while they're still in the classroom.
 - Presenter disadvantages: Takes a long time to prepare. If you are re-using material, you need to run through all of the exercises to ensure they are still complete / correct and that the tech hasn't changed since the material was last delivered.
-- Audience advantages: Greater opportunity to gain mastery and test your knowledge through pratical, hands-on activities.
+- Audience advantages: Greater opportunity to gain mastery and test your knowledge through practical, hands-on activities.
 - Audience disadvantages: Often not well designed, and don't have test opportunities to ensure you have attained skills to a sufficient level.

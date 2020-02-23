@@ -51,7 +51,7 @@ With your outline written, it's time to start putting your slides and imagery to
 
 ## 2 Weeks
 
-- Start practicing your talk outloud.
+- Start practicing your talk out loud.
 - Fix the slides to match your story, adding imagery where relevant.
 - Decrease the amount of text on each slide to just the key point you want to make for that idea.
 - Test your colours against common colour blindness problems; and for contrast. Various tools are available for different platforms. A quick Web search should help you to find something relevant, if not ask your friends. Statistic suggest you'll have at least one colour-blind friend who can help you with this.
@@ -123,7 +123,7 @@ Pack your bag for tomorrow and include:
 
 ## (Literally) The Last Few Minutes
 
-- As soon as you can, get onto the stage and graciously tell the folks on stage that they've done a great job. Then help them to shepherd people alway from the stage by saying you need to get setup. The previous presenter can answer questions in the hallway. Help them to see if they've forgotten anything on stage, and then help them to move on. You being rude to the audience is a LOT easier than the speaker doing it; you're helping them. (And hopefully someone will help shepherd you at the end of your talk.)
+- As soon as you can, get onto the stage and graciously tell the folks on stage that they've done a great job. Then help them to shepherd people away from the stage by saying you need to get setup. The previous presenter can answer questions in the hallway. Help them to see if they've forgotten anything on stage, and then help them to move on. You being rude to the audience is a LOT easier than the speaker doing it; you're helping them. (And hopefully someone will help shepherd you at the end of your talk.)
 - Get your laptop plugged in and working with the projector. If anything is going to go wrong, this is generally it.
 - Next, get help putting your mic on if it's a clip mic. (Want to impress the AV staff? Test the mic by blowing on it. That's right: you don't tap the mic to test it because tapping a mic can damage the internals and potentially blow out the speakers if they're turned up too high. So don't tap the mic!)
 - Once your laptop is connected, open your slideshow software, bring up the first slide, and start the presentation. Make sure you can see your speaker notes (if not: your display is probably mirrored, you'll need to disable that).

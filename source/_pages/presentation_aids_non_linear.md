@@ -1,5 +1,5 @@
 ---
-title: Non-Linear Presenation Aids
+title: Non-Linear Presentation Aids
 section:
     - planning
 ---

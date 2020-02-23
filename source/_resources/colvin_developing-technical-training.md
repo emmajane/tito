@@ -103,9 +103,9 @@ Sample learner exercise: describe how the theme layer works.
 
 Although many tasks we complete routinely are done the same way each time (procedures), other tasks are a little bit different every time because of the context in which the task takes place. When the tasks are a little different, they become principle-based or strategic tasks. The knowledge worker tends to spend a lot of their time completing principle-based tasks. In procedural learning, the focus is on "how to", in principle-based learning, the focus is on "what", "why", and "how". The goal with teaching principles is to help the learner build mental models that can be adapted to changing situations.
 
-Far-transfer principles are the most difficult to teach; however, they are the most needed skills in IT work. A principle is a cause and effect relationship which results in a predictable outcome. These principles can be taught. There is rarely one right approach to far-transfer tasks and tehrefore no single expert can demonstrate the guideline. Many SMEs cannot readily articulate the way they tackle far-transfer tasks or the rasons for their actions. they will often say their work is "intuitive".
+Far-transfer principles are the most difficult to teach; however, they are the most needed skills in IT work. A principle is a cause and effect relationship which results in a predictable outcome. These principles can be taught. There is rarely one right approach to far-transfer tasks and therefore no single expert can demonstrate the guideline. Many SMEs cannot readily articulate the way they tackle far-transfer tasks or the reasons for their actions. they will often say their work is "intuitive".
 
-To develop the guidelines you can work with SMEs, or analyze the actions or work products that reflect best practices. When studying SMEs for guidelines, you need to compare their work agasint the traits or commonalities which are not shared with new or less-proficient workers.
+To develop the guidelines you can work with SMEs, or analyze the actions or work products that reflect best practices. When studying SMEs for guidelines, you need to compare their work against the traits or commonalities which are not shared with new or less-proficient workers.
 
 1. Derive guidelines from watching best practitioners. Often easier when the task is overt and performed quickly.
 2. Derive guidelines from stories if you cannot watch best performers on the job for privacy / security reasons.
@@ -129,9 +129,9 @@ The biggest mistakes for organizing training are as follows:
 
 Avoid these mistakes by starting with a detailed Job and Task Analysis. Organize most of your lessons around job tasks (procedures and principles).
 
-Job functions == areas of responsiblity == key results areas. A job function fundings a major responsiblity resulting in a specific output that is realtively disntinct from other outputs. For each job function, break it into the tasks required to complete that function. A job task is a defined set of specific steps or guidelines that result in a measurable outcome. When several tasks associated with a particular function are completed, that function is accomplished. Begin job-task definitions with a verb. In general, shoot for tasks that include 5-15 steps or guidelines. 
+Job functions == areas of responsibility == key results areas. A job function fundings a major responsibility resulting in a specific output that is relatively distinct from other outputs. For each job function, break it into the tasks required to complete that function. A job task is a defined set of specific steps or guidelines that result in a measurable outcome. When several tasks associated with a particular function are completed, that function is accomplished. Begin job-task definitions with a verb. In general, shoot for tasks that include 5-15 steps or guidelines. 
 
-For each task, determine if it is procedural, or principle-based, and procede with the lesson planning as described previously. Once the tasks have been broken into steps (procedural) or guidelines (principles), identify the knowledge associated / required with the steps or guidelines. [In DITA-speak: pull out the reference material.]
+For each task, determine if it is procedural, or principle-based, and proceed with the lesson planning as described previously. Once the tasks have been broken into steps (procedural) or guidelines (principles), identify the knowledge associated / required with the steps or guidelines. [In DITA-speak: pull out the reference material.]
 
 Principles to consider when developing your course outline.
 
