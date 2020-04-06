@@ -1,5 +1,5 @@
 ---
-title: Non-Linear Presenation Aids
+title: Non-Linear Presentation Aids
 section:
     - planning
 ---
@@ -11,7 +11,7 @@ I’ve seen people use a few alternatives to linear slides (with positive effect
 xmind examples: http://xmind.net/
 
 - Blog post about the presentation mode - http://www.xmind.net/blog/en/tag/presentation/
-- Video demonstrating presentation mode (it’s very similar to prezi, but less fussy, IMO) - http://www.youtube.com/watch?v=_Ev3wuoGjzc
+- Video demonstrating presentation mode (it’s very similar to Prezi, but less fussy, IMO) - http://www.youtube.com/watch?v=_Ev3wuoGjzc
 
 Prezi examples: http://prezi.com/
 

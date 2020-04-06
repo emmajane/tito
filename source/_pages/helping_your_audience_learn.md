@@ -8,7 +8,7 @@ Jacinta Richardson (Perl Training Australia) has an excellent presentation on ho
 
 - Reduce the extraneous cognitive load. Remove the stuff that gets in the way of learning the key lessons.
 - Be realistic about the amount of time you actually have in a class. 9-5PM is actually 6 hours when you factor in breaks and lunch and mental overload.
-- Don’t expect your students to learn too much in a single day. Confine your topics. Have tight tight chapter boundaries and very clear limits. A single “chapter” shouldn’t take more than 90 minutes.
+- Don’t expect your students to learn too much in a single day. Confine your topics. Have tight chapter boundaries and very clear limits. A single “chapter” shouldn’t take more than 90 minutes.
 - Don’t waste time in the morning talking about yourself. Jump to the most important topics right away. Put the easy stuff at the end of the day when they’re overwhelmed and can absorb less information.
 - Full brains are like full stomachs. If you wait long enough, you’ll be able to eat more (or have dessert).
 - The very basic principles must be at the very beginning–even if it seems sequentially out of order. In the first half day, students are the freshest and will have the best chance of understanding concepts.
